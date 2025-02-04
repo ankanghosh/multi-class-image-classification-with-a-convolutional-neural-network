@@ -3,7 +3,7 @@ Multi-class image classification with a Convolutional Neural Network (CNN) using
 
 # About the project
 Multi-class image classification with a CNN using the CIFAR-10 dataset.
-This is a Google Colab notebook to classify images across multiple categories of vehicles and animals, such aeroplanes, automibiles, birds, and cats, from the CIFAR-10 dataset. The data is first preprocessed and a simple CNN is used to implement the model for the multi-class classification of images. The model performs fairly well and achieves an accuracy of about 71%.
+This is a Google Colab notebook to classify images across multiple categories of vehicles and animals, such aeroplanes, automobiles, birds, and cats, from the CIFAR-10 dataset. The data is first preprocessed and a simple CNN is used to implement the model for the multi-class classification of images. The model performs fairly well and achieves an accuracy of about 71%.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, Matplotlib, NumPy, scikit-learn, and seaborn.
